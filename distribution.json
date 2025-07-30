@@ -1,24 +1,4 @@
 {
-  "launcher": {
-    "version": "1.0.0",
-    "minecraftVersion": "1.21.4"
-  },
-  "servers": [
-    {
-      "name": "현창 서버",
-      "id": "hyunchang-server",
-      "description": "현창 공식 마인크래프트 서버 1.21.4",
-      "icon": "https://i.imgur.com/BKMUKMK.png",
-      "address": "hyunchang.kro.kr",
-      "port": 25565,
-      "minecraftVersion": {
-        "version": "1.21.4",
-        "type": "release"
-      },
-      "order": 0
-    }
-  ]
-}{
   "meta": {
     "version": "1.0.0",
     "description": "현창 서버 배포파일"
